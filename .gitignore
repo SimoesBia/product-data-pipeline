@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Segredos e dados locais
+.env
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# Ferramentas
+.pytest_cache/
+.ruff_cache/
+.coverage
+.idea/
+.vscode/
